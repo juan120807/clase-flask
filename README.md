@@ -1,2 +1,1 @@
-# clase-flask
-visual
+# python_clases
